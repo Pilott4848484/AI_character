@@ -1,0 +1,34 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello",
+      "ts": "2026-09-17T20:01"
+    },
+    {
+      "role": "assistant",
+      "content": "*no response*",
+      "ts": "2026-09-17T20:01"
+    },
+    {
+      "role": "user",
+      "content": "who do you think you are?",
+      "ts": "2026-09-17T20:01"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm the one who knocks.",
+      "ts": "2026-09-17T20:01"
+    },
+    {
+      "role": "user",
+      "content": "i guess bro",
+      "ts": "2026-09-17T20:02"
+    },
+    {
+      "role": "assistant",
+      "content": "don't get too comfortable, kid",
+      "ts": "2026-09-17T20:02"
+    }
+  ]
+}
